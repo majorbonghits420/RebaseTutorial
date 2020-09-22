@@ -5,6 +5,7 @@
 #set some vars
 x = 3
 y = 5
-
+a = 11
 
 print(x + y)
+print(a + y)
